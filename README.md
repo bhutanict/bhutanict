@@ -1,6 +1,6 @@
 ### Hi there :pray:
 
-I am a software developer & Data Engineer from Bhutan :bhutan: . 
+I am a software developer & Data Engineer from Bhutan :bhutan:
 <!--
 **bhutanict/bhutanict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
