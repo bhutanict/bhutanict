@@ -2,11 +2,11 @@
 
 I am a software developer & Data Engineer from Bhutan :bhutan:
 
-I am currenly working on Python Flask, Python FastAPI, Django framework to develop.
+I am currenly working on Python FastAPI, Django framework to develop.
 
 I have developed Budgeting, Accounting and Payment systems in my country. In addition to it, I had been working on Data Science field where I and my team had developed Data Warehouse, ETL/ELT and few Machine Learning projects.
 
-Previously, I had worked on .NET, .NET Core, Java and PHP frameworks using MS SQL, MariaDB, MySQL.
+Previously, I had worked on .NET, .NET Core, Java and Python (Flask, FastAPI) using MS SQL, MariaDB/MySQL, PostgreSQL.
 
 <!--
 **bhutanict/bhutanict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
